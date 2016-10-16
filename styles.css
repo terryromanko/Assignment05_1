@@ -1,0 +1,11 @@
+.button 
+{
+	width: 500px;
+	height: 150px;
+	padding: 50px;
+	border: 2px solid red;
+	background-image: url("logo.jpg");
+	background-position: center;
+	background-size: 250px 175px;
+	background-repeat: no-repeat;
+}
